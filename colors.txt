@@ -3,6 +3,8 @@ Orange
 Yellow
 Green
 Blue
+Green
+Blue
 Lilac
 Pink
 White
