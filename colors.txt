@@ -11,3 +11,6 @@ Indigo
 Cream
 Lavender
 Sage
+Gray
+Purple
+Crimson
