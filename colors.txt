@@ -1,0 +1,10 @@
+Red
+Orange
+Yellow
+Green
+Blue
+Lilac
+Pink
+White
+Black
+Indigo
