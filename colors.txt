@@ -8,3 +8,6 @@ Pink
 White
 Black
 Indigo
+Gray
+Purple
+Crimson
