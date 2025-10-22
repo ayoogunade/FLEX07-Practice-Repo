@@ -8,3 +8,6 @@ Spinach
 Tomato
 Cucumber
 Grapes
+Zucchini
+Potato
+Durian
