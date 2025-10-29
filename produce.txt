@@ -1,11 +1,9 @@
 ===================================
-PRODUCE LIST
+PRODUCE LIST(SORTED BY IMPORTANCE)
 ===================================
 Apple
 Banana
 Orange
-Spinach
-Cucumber
 Grapes
 Potato
 Durian
@@ -13,6 +11,8 @@ coconut
 sand pear
 square watermelon (the japanese kind)
 Pears
-Kiwi
+Kiwi x2
 Lemon
-Kiwi
+Spinach
+Cucumber
+
